@@ -1,0 +1,3 @@
+testrail-api
+openai
+ollama
